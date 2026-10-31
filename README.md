@@ -12,8 +12,8 @@ A simple, formula-driven spreadsheet for tracking your **monthly budget**, **fix
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-F7B500?style=for-the-badge)
 
-**🚫 No macros &nbsp;•&nbsp; 🚫 No add-ins &nbsp;•&nbsp; 🚫 No subscriptions**
-Just a standard `.xlsx` file.
+**No macros &nbsp;•&nbsp; No add-ins &nbsp;•&nbsp; No subscriptions**
+## Just a standard `.xlsx` file.
 
 <br>
 
