@@ -1,0 +1,5 @@
+# keep personal copies out of the repo
+*_personal.xlsx
+*-personal.xlsx
+my_*.xlsx
+~$*.xlsx
