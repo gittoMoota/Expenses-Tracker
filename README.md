@@ -55,9 +55,10 @@ Expenses-Tracker
 
 
 | **Category breakdown** | Budget, fixed costs, everyday spending, total spent, remaining and % used for every category. |
+| **Colour-coded progress** | 🟢 under 80% &nbsp;•&nbsp; 🟡 80–100% &nbsp;•&nbsp; 🔴 over budget |
 <img width="491" height="443" alt="b" src="https://github.com/user-attachments/assets/0150ec66-4da9-432c-b53c-8047852fb2d1" />
 
-| **Colour-coded progress** | 🟢 under 80% &nbsp;•&nbsp; 🟡 80–100% &nbsp;•&nbsp; 🔴 over budget |
+
 | **Fixed expenses** | Enter rent, car instalment, internet and more **once**. They count automatically every month while active. |
 <img width="461" height="424" alt="d" src="https://github.com/user-attachments/assets/6e547cc5-48b8-4721-b671-f749dc87c9f1" />
 
