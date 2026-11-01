@@ -237,7 +237,7 @@ python build_expense_tracker.py
 This creates a fresh `Expense_Tracker_Template.xlsx` in the `files` folder.
 
 > [!NOTE]
-> Open the generated file once in Excel or LibreOffice so the formulas calculate and the values are cached.
+> Open the generated file once in Excel or LibreOffice so the formulas calculate and the values are cached
 
 ---
 
