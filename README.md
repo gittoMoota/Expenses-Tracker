@@ -30,9 +30,6 @@ A simple, formula-driven spreadsheet for tracking your **monthly budget**, **fix
 
 ## 📦 What's in this repository
 
-Everything you need is inside the **`files`** folder, and the screenshots live in the **`screenshots`** folder.
-
-```
 Expenses-Tracker
 ├── README.md                          
 ├── Expense_Tracker_Template.xlsx  ←the blank spreadsheet
