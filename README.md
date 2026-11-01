@@ -17,9 +17,7 @@ Just a standard `.xlsx` file you fully own.
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/2ff48a1b-6021-47e7-b232-d41d23a2cc92" alt="Expense tracker dashboard showing budget, spending by category and a budget vs spent chart" width="850">
-
-*The Dashboard tab, shown with sample demo data.*
+<img src="https://github.com/user-attachments/assets/03a896fd-c224-4d0c-9d3e-922cb6abab5f" alt="Expense tracker dashboard showing budget, spending by category and a budget vs spent chart" width="850">
 
 </div>
 
@@ -182,8 +180,9 @@ The screenshots use the demo setup below, so you can follow the numbers yourself
 Set **Active? = No** for the car instalment and car insurance, and the Dashboard updates straight away. Transport drops to **16%** and total spent falls to **11,529.50**. This is handy for loans that finish or subscriptions you cancel.
 
 <div align="center">
-<img src="screenshots/dashboard-paused-expenses.png" alt="Dashboard after pausing two fixed expenses" width="850">
-</div>
+<img src="https://github.com/user-attachments/assets/2ff48a1b-6021-47e7-b232-d41d23a2cc92" alt="Expense tracker dashboard showing  an increase in budget remaining due to inactive fixed/ reccuring expenses" width="850">
+
+*The Dashboard tab, shown with sample demo data.*
 
 ---
 
